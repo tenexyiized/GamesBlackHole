@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "GamesBlackHole"
-include ':app'
+include (":app")
